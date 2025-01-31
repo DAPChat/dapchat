@@ -52,7 +52,6 @@ body {
   opacity:0.2;
 }
 .button {
-  display:none;
   position:absolute;
   bottom:20px;
   left:50%;
